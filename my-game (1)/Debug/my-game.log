@@ -1,0 +1,53 @@
+﻿  my-game.cpp
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(90,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(90,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(95,10): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(143,15): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(150,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(150,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(150,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(150,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(157,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(157,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(157,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(157,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(163,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(163,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(163,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(163,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(181,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(184,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(208,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(208,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(208,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(208,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(217,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(217,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(217,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(217,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(223,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(223,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(223,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(223,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(236,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(236,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(236,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(236,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(248,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(248,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(248,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(248,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(274,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(274,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(300,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(302,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GSTER\Downloads\my-game (1)\my-game.cpp(302,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+graphics.lib(dibutil.obj) : warning LNK4099: PDB '' was not found with 'graphics.lib(dibutil.obj)' or at ''; linking object as if no debug info
+graphics.lib(drawing.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(drawing.obj)' or at 'C:\Users\GSTER\Downloads\my-game (1)\Debug\bgi.pdb'; linking object as if no debug info
+graphics.lib(file.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(file.obj)' or at 'C:\Users\GSTER\Downloads\my-game (1)\Debug\bgi.pdb'; linking object as if no debug info
+graphics.lib(misc.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(misc.obj)' or at 'C:\Users\GSTER\Downloads\my-game (1)\Debug\bgi.pdb'; linking object as if no debug info
+graphics.lib(mouse.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(mouse.obj)' or at 'C:\Users\GSTER\Downloads\my-game (1)\Debug\bgi.pdb'; linking object as if no debug info
+graphics.lib(text.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(text.obj)' or at 'C:\Users\GSTER\Downloads\my-game (1)\Debug\bgi.pdb'; linking object as if no debug info
+graphics.lib(winbgi.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(winbgi.obj)' or at 'C:\Users\GSTER\Downloads\my-game (1)\Debug\bgi.pdb'; linking object as if no debug info
+graphics.lib(winthread.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(winthread.obj)' or at 'C:\Users\GSTER\Downloads\my-game (1)\Debug\bgi.pdb'; linking object as if no debug info
+  my-game.vcxproj -> C:\Users\GSTER\Downloads\my-game (1)\Debug\my-game.exe
